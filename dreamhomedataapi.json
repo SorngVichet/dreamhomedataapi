@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "type": "Villa",
+    "mainimg": "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337192560531-b.jpg",
+    "title": "7-Bedrooms Quence Villa",
+    "prop": {
+      "bedroom": 6,
+      "livingroom": 1,
+      "bathroom": 7,
+      "pool": 0
+    },
+    "area": {
+      "a": 100,
+      "b": 200
+    },
+    "price": {
+      "ppm": 500,
+      "ppy": 6000
+    },
+    "location": {
+      "text": "str 168, ToulSangkea, Phnom Penh",
+      "link": "https://maps.apple.com/maps?ll=11.58939816665552,104.90128362378594&q=11.58939816665552,104.90128362378594&t=m"
+    },
+    "owner": {
+      "name": "SORNG VICHET",
+      "phone": "081981012",
+      "telegram": "081981012",
+      "facebook": "https://www.facebook.com/share/1BdbnpiSaC/?mibextid=wwXIfr",
+      "email": "sorngvichet168@gmail.com"
+    },
+    "extraimg": [
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337241974178-l.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337251688734-m.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337238120273-n.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337125185977-c.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337148613013-d.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337262309655-k.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337269558367-s.jpg",
+
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337220693795-i.jpg",
+      "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337163956725-h.jpg"
+    ]
+  }
+]
