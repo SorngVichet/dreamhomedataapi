@@ -174,5 +174,390 @@
       "https://photos.ips-cambodia.com/photos/property/19044/2409030345956e8b-2bed-apartment-grace-23-360x250.thumb.jpg",
       "https://photos.ips-cambodia.com/photos/property/19044/2409030344356abc-2bed-apartment-grace-19-360x250.thumb.jpg"
     ]
+  },
+  {
+    "id": 1,
+    "ID": "V008",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2024/05/23/141900005.jpg_780x488",
+    "title": "Modern 5-Bedroom Luxury Villa",
+    "prop": {
+      "bedroom": 5,
+      "livingroom": 1,
+      "bathroom": 6,
+      "pool": 1
+    },
+    "area": {
+      "a": 120,
+      "b": 250
+    },
+    "price": {
+      "ppm": 800,
+      "ppy": 9600
+    },
+    "location": {
+      "text": "Borey Peng Huoth, Chbar Ampov, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5432,104.9354"
+    },
+    "owner": {
+      "name": "CHAN VUTHY",
+      "phone": "093456789",
+      "telegram": "093456789",
+      "facebook": "https://facebook.com/vuthy",
+      "email": "vuthyhome@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/05/23/141900002.jpg_1600",
+      "https://img.harbor-property.com/house/2024/05/23/141900004.jpg_1600",
+      "https://img.harbor-property.com/house/2024/05/23/141900006.jpg_1600",
+      "https://img.harbor-property.com/house/2024/05/23/141900008.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 2,
+    "ID": "V009",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2024/04/24/11800002.jpg_780x488",
+    "title": "European Style Villa For Rent",
+    "prop": {
+      "bedroom": 4,
+      "livingroom": 1,
+      "bathroom": 5,
+      "pool": 0
+    },
+    "area": {
+      "a": 90,
+      "b": 180
+    },
+    "price": {
+      "ppm": 450,
+      "ppy": 5400
+    },
+    "location": {
+      "text": "Sen Sok, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.6023,104.8821"
+    },
+    "owner": {
+      "name": "LY SREYNEANG",
+      "phone": "0881234567",
+      "telegram": "0881234567",
+      "facebook": "https://facebook.com/sreyneang",
+      "email": "homecare.kh@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/04/24/11800005.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/04/24/11800003.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/04/24/11800008.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/04/24/11800007.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 3,
+    "ID": "V010",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2024/04/24/113700008.jpg_780x488",
+    "title": "6-Bedrooms Twin Villa",
+    "prop": {
+      "bedroom": 6,
+      "livingroom": 1,
+      "bathroom": 6,
+      "pool": 0
+    },
+    "area": {
+      "a": 110,
+      "b": 220
+    },
+    "price": {
+      "ppm": 600,
+      "ppy": 7200
+    },
+    "location": {
+      "text": "Boeung Snor, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5777,104.9111"
+    },
+    "owner": {
+      "name": "KONG RATHA",
+      "phone": "087334455",
+      "telegram": "087334455",
+      "facebook": "https://facebook.com/ratha",
+      "email": "rathaestate@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/04/24/113700001.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/24/113700002.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/24/113700004.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/24/113700003.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 4,
+    "ID": "V011",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2024/04/24/111600009.jpg_1600",
+    "title": "Corner Villa With Big Garden",
+    "prop": {
+      "bedroom": 5,
+      "livingroom": 2,
+      "bathroom": 6,
+      "pool": 0
+    },
+    "area": {
+      "a": 150,
+      "b": 300
+    },
+    "price": {
+      "ppm": 1200,
+      "ppy": 14400
+    },
+    "location": {
+      "text": "Koh Pich, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5566,104.9270"
+    },
+    "owner": {
+      "name": "SOK CHANRA",
+      "phone": "093993442",
+      "telegram": "093993442",
+      "facebook": "https://facebook.com/chanra",
+      "email": "chanra.homes@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/04/24/111600004.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/24/111600002.jpg_1600",
+
+      "https://img.harbor-property.com/house/2024/04/24/111600001.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/24/111600005.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 5,
+    "ID": "V012",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2025/11/03/145800001.jpg_1600",
+    "title": "Luxury Pool Villa",
+    "prop": {
+      "bedroom": 4,
+      "livingroom": 1,
+      "bathroom": 5,
+      "pool": 1
+    },
+    "area": {
+      "a": 130,
+      "b": 260
+    },
+    "price": {
+      "ppm": 1500,
+      "ppy": 18000
+    },
+    "location": {
+      "text": "Chroy Changvar, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5888,104.9369"
+    },
+    "owner": {
+      "name": "PHAN SOKVISAL",
+      "phone": "097447755",
+      "telegram": "097447755",
+      "facebook": "https://facebook.com/sokvisal",
+      "email": "sokvisalvilla@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/03/145800007.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/03/145800010.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/03/145900001.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 6,
+    "ID": "V013",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2025/10/27/104900005.jpg_1600",
+    "title": "Queen Villa Type A",
+    "prop": {
+      "bedroom": 6,
+      "livingroom": 2,
+      "bathroom": 7,
+      "pool": 0
+    },
+    "area": {
+      "a": 140,
+      "b": 280
+    },
+    "price": {
+      "ppm": 900,
+      "ppy": 10800
+    },
+    "location": {
+      "text": "Borey Chip Mong 271",
+      "link": "https://maps.apple.com/?ll=11.5454,104.9001"
+    },
+    "owner": {
+      "name": "RIN NAK",
+      "phone": "0712223344",
+      "telegram": "0712223344",
+      "facebook": "https://facebook.com/nak.rin",
+      "email": "nakproperty@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/10/27/104900003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/10/27/104900001.jpg_1600",
+      "https://img.harbor-property.com/house/2025/10/27/104900007.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 7,
+    "ID": "V014",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2025/11/12/134600002.jpg_1600",
+    "title": "Mini Villa Type B",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 4,
+      "pool": 0
+    },
+    "area": {
+      "a": 70,
+      "b": 140
+    },
+    "price": {
+      "ppm": 300,
+      "ppy": 3600
+    },
+    "location": {
+      "text": "Takmao City, Takhmao",
+      "link": "https://maps.apple.com/?ll=11.4733,104.9533"
+    },
+    "owner": {
+      "name": "MEY SOMALY",
+      "phone": "098889933",
+      "telegram": "098889933",
+      "facebook": "https://facebook.com/somaly.mey",
+      "email": "somalyvilla@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/12/134600001.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/12/134600004.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/12/134600005.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 8,
+    "ID": "V015",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2025/11/14/114000006.jpg_1600",
+    "title": "Modern Twin Villa",
+    "prop": {
+      "bedroom": 5,
+      "livingroom": 1,
+      "bathroom": 5,
+      "pool": 0
+    },
+    "area": {
+      "a": 100,
+      "b": 200
+    },
+    "price": {
+      "ppm": 650,
+      "ppy": 7800
+    },
+    "location": {
+      "text": "Borey New World, Sen Sok",
+      "link": "https://maps.apple.com/?ll=11.6211,104.8882"
+    },
+    "owner": {
+      "name": "SAN PISET",
+      "phone": "0962213456",
+      "telegram": "0962213456",
+      "facebook": "https://facebook.com/piset",
+      "email": "pisetvilla@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/14/114000003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/14/114000005.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/14/114000001.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 9,
+    "ID": "V016",
+
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2025/11/21/113000003.jpg_1600",
+    "title": "Garden Villa Type C",
+    "prop": {
+      "bedroom": 4,
+      "livingroom": 1,
+      "bathroom": 4,
+      "pool": 1
+    },
+    "area": {
+      "a": 115,
+      "b": 230
+    },
+    "price": {
+      "ppm": 1100,
+      "ppy": 13200
+    },
+    "location": {
+      "text": "Siem Reap City Center",
+      "link": "https://maps.apple.com/?ll=13.3611,103.8590"
+    },
+    "owner": {
+      "name": "THORN RATHA",
+      "phone": "099223344",
+      "telegram": "099223344",
+      "facebook": "https://facebook.com/ratha.thorn",
+      "email": "rathareal@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/21/113000001.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/21/113000005.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/21/113000002.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 10,
+    "ID": "V017",
+    "type": "Villa",
+    "mainimg": "https://img.harbor-property.com/house/2024/10/04/154600002.jpg_1600",
+    "title": "Premium Villa Type D",
+    "prop": {
+      "bedroom": 7,
+      "livingroom": 2,
+      "bathroom": 8,
+      "pool": 1
+    },
+    "area": {
+      "a": 180,
+      "b": 350
+    },
+    "price": {
+      "ppm": 2000,
+      "ppy": 24000
+    },
+    "location": {
+      "text": "Borey Peng Huoth Elite, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5699,104.9180"
+    },
+    "owner": {
+      "name": "IM CHHAY",
+      "phone": "081555666",
+      "telegram": "081555666",
+      "facebook": "https://facebook.com/chhayim",
+      "email": "chhayestate@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/10/04/154500001.jpg_1600",
+      "https://img.harbor-property.com/house/2024/10/04/154500004.jpg_1600",
+      "https://img.harbor-property.com/house/2024/10/04/154600001.jpg_1600"
+    ]
   }
 ]
