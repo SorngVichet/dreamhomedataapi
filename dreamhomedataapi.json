@@ -952,5 +952,448 @@
       "https://img.harbor-property.com/house/2024/07/12/132400001.jpg_780x488",
       "https://img.harbor-property.com/house/2024/07/12/132400005.jpg_780x488"
     ]
+  },
+  {
+    "id": 25,
+    "ID": "H005",
+    "type": "Hotel",
+    "mainimg": "https://digital.ihg.com/is/image/ihg/intercontinental-tegucigalpa-6071105521-2x1",
+    "title": "18 Room Pool Hotel",
+    "prop": {
+      "bedroom": 18,
+      "livingroom": 1,
+      "bathroom": 20,
+      "pool": 1
+    },
+    "area": {
+      "a": 50,
+      "b": 100
+    },
+    "price": {
+      "ppm": 2800,
+      "ppy": 30000
+    },
+    "location": {
+      "text": "Sala Kamreuk, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3412,103.8691"
+    },
+    "owner": {
+      "name": "POV SOKLAY",
+      "phone": "089224466",
+      "telegram": "089224466",
+      "facebook": "https://facebook.com/soklay",
+      "email": "soklayhotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/23/214500004.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214500006.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214500003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214400003.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 26,
+    "ID": "H006",
+    "type": "Hotel",
+    "mainimg": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,w_1000/f_auto/crm/miamifl/Colony-GMCBV_283DBD1C-497F-40E1-BFC4019833A6DF29_5335ec78-cde2-49ce-bf026a6a541e9137.jpg",
+    "title": "22 Room Premium Hotel",
+    "prop": {
+      "bedroom": 22,
+      "livingroom": 2,
+      "bathroom": 24,
+      "pool": 1
+    },
+    "area": {
+      "a": 65,
+      "b": 130
+    },
+    "price": {
+      "ppm": 3500,
+      "ppy": 38000
+    },
+    "location": {
+      "text": "Chong Kao Sue, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3747,103.8482"
+    },
+    "owner": {
+      "name": "CHEA RATANA",
+      "phone": "096882233",
+      "telegram": "096882233",
+      "facebook": "https://facebook.com/ratana",
+      "email": "ratanahotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/23/211300003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300007.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300009.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300012.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 27,
+    "ID": "H007",
+    "type": "Hotel",
+    "mainimg": "https://www.ghmhotels.com/wp-content/uploads/CAM-Dining-The-Courtyard-Night021-865x780.jpg",
+    "title": "14 Room Cozy Hotel",
+    "prop": {
+      "bedroom": 14,
+      "livingroom": 1,
+      "bathroom": 16,
+      "pool": 0
+    },
+    "area": {
+      "a": 40,
+      "b": 90
+    },
+    "price": {
+      "ppm": 1600,
+      "ppy": 17500
+    },
+    "location": {
+      "text": "Krong Siem Reap Center",
+      "link": "https://maps.apple.com/?ll=13.3566,103.8598"
+    },
+    "owner": {
+      "name": "VUTH SAKDA",
+      "phone": "088112233",
+      "telegram": "088112233",
+      "facebook": "https://facebook.com/sakda",
+      "email": "sakdahotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/07/12/151200001.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200002.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200004.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200005.jpg_780x488"
+    ]
+  },
+
+  {
+    "id": 28,
+    "ID": "A011",
+    "type": "Apartment",
+    "mainimg": "https://www.zillowstatic.com/bedrock/app/uploads/sites/47/2025/09/how-to-rent-an-apartment.jpg",
+    "title": "1 Bedroom Serviced Apartment",
+    "prop": {
+      "bedroom": 1,
+      "livingroom": 1,
+      "bathroom": 1,
+      "pool": 1
+    },
+    "area": {
+      "a": 6,
+      "b": 11
+    },
+    "price": {
+      "ppm": 1200,
+      "ppy": 14400
+    },
+    "location": {
+      "text": "BKK1, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.556447,104.926546"
+    },
+    "owner": {
+      "name": "SOK LINA",
+      "phone": "096111222",
+      "telegram": "096111222",
+      "facebook": "https://facebook.com/exampleA011",
+      "email": "soklina@gmail.com"
+    },
+    "extraimg": [
+      "https://stylesourcebook.com.au/_ipx/w_1500,f_webp,q_80/https://stylesourcebook-images.s3-ap-southeast-2.amazonaws.com/media/Hauus_Main-1670302582.jpg",
+      "https://ar.rdcpix.com/8ad550103da769283a84266e8ad4be68c-f3100747721od-w480_h480_q80.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "ID": "A012",
+    "type": "Apartment",
+    "mainimg": "https://jbartlett.org/wp-content/uploads/shutterstock_156818384-1030x684.jpg",
+    "title": "2 Bedroom Modern Apartment",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 0
+    },
+    "area": {
+      "a": 7,
+      "b": 15
+    },
+    "price": {
+      "ppm": 1600,
+      "ppy": 19200
+    },
+    "location": {
+      "text": "Russian Market, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.543001,104.907221"
+    },
+    "owner": {
+      "name": "CHANTHA RITH",
+      "phone": "088445566",
+      "telegram": "088445566",
+      "facebook": "https://facebook.com/exampleA012",
+      "email": "chantharith@gmail.com"
+    },
+    "extraimg": [
+      "https://wellcraftkitchens.com/wp-content/uploads/2025/04/b67e299b5056aed7670acd30a9705df8.jpg",
+      "https://www.povison.com/blog/wp-content/uploads/2025/09/mid-century-modern-bedroom-design-playful-pops-of-color-1024x683.webp"
+    ]
+  },
+  {
+    "id": 30,
+    "ID": "A013",
+    "type": "Apartment",
+    "mainimg": "https://karnakrealestatedevelopments.com/wp-content/uploads/2024/11/%D8%B4%D9%82%D8%A9.jpg",
+    "title": "3 Bedroom Large Apartment",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 3,
+      "pool": 0
+    },
+    "area": {
+      "a": 10,
+      "b": 18
+    },
+    "price": {
+      "ppm": 2800,
+      "ppy": 33600
+    },
+    "location": {
+      "text": "Tuol Kork, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.573020,104.899250"
+    },
+    "owner": {
+      "name": "KIM LEAP",
+      "phone": "089555333",
+      "telegram": "089555333",
+      "facebook": "https://facebook.com/exampleA013",
+      "email": "kimleap@gmail.com"
+    },
+    "extraimg": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Backyardpool.jpg/1200px-Backyardpool.jpg",
+      "https://fancyhouse-design.com/wp-content/uploads/2025/02/A-Sophisticated-Bedroom-with-Balanced-Contrast-and-Textural-Depth.jpg",
+      "https://cdn.decorilla.com/online-decorating/wp-content/uploads/2024/08/Soothing-luxury-master-bathroom-design-by-Decorilla-featuring-bathroom-trends-2025-1024x683.jpg?width=900"
+    ]
+  },
+  {
+    "id": 31,
+    "ID": "A014",
+    "type": "Apartment",
+    "mainimg": "https://images.airtasker.com/v7/https://airtasker-seo-assets-prod.s3.amazonaws.com/en_AU/1752455339405-multi-story-apartment.jpg",
+    "title": "1 Bedroom Budget Apartment",
+    "prop": {
+      "bedroom": 1,
+      "livingroom": 1,
+      "bathroom": 1,
+      "pool": 0
+    },
+    "area": {
+      "a": 5,
+      "b": 10
+    },
+    "price": {
+      "ppm": 700,
+      "ppy": 8400
+    },
+    "location": {
+      "text": "Stung Meanchey, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.528600,104.901200"
+    },
+    "owner": {
+      "name": "THORN MANY",
+      "phone": "085998877",
+      "telegram": "085998877",
+      "facebook": "https://facebook.com/exampleA014",
+      "email": "manythorn@gmail.com"
+    },
+    "extraimg": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyk30RVprDUkbuuDETpNfM460npKTbMDqBw&s",
+      "https://emaxgds5nw8.exactdn.com/app/uploads/2024/10/Bacon-Brighton-Modern-Bathroom-Blue-Tiles-Natural-Stone-Free-Standing-Bath-0005.jpg?strip=all&lossy=1&ssl=1"
+    ]
+  },
+  {
+    "id": 32,
+    "ID": "A015",
+
+    "type": "Apartment",
+    "mainimg": "https://resource.rentcafe.com/image/upload/q_auto,f_auto/s3/2/40772/img_4953.jpg",
+    "title": "2 Bedroom City View Apartment",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 1
+    },
+    "area": {
+      "a": 8,
+      "b": 16
+    },
+    "price": {
+      "ppm": 2300,
+      "ppy": 27600
+    },
+    "location": {
+      "text": "Olympic Area, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.555302,104.912881"
+    },
+    "owner": {
+      "name": "SETHA KANHA",
+      "phone": "097889000",
+      "telegram": "097889000",
+      "facebook": "https://facebook.com/exampleA015",
+      "email": "sethakn@gmail.com"
+    },
+    "extraimg": [
+      "https://resource.rentcafe.com/image/upload/x_0,y_0,w_2048,h_1365,c_crop/q_auto,f_auto,c_lfill,w_576,ar_1.564,g_auto/s3/2/22381/cb_model_1-1-b_2-15-23_03.jpg",
+      "https://housingsgn.com/wp-content/uploads/2025/09/PHN0401-.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "ID": "A016",
+    "type": "Apartment",
+    "mainimg": "https://upload.wikimedia.org/wikipedia/commons/8/80/2019.07.10_metro_California-housing_Blog-post_related.webp",
+    "title": "1 Bedroom Cozy Apartment",
+    "prop": {
+      "bedroom": 1,
+      "livingroom": 1,
+      "bathroom": 1,
+      "pool": 0
+    },
+    "area": {
+      "a": 5,
+      "b": 11
+    },
+    "price": {
+      "ppm": 950,
+      "ppy": 11400
+    },
+    "location": {
+      "text": "Wat Phnom, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.576502,104.928000"
+    },
+    "owner": {
+      "name": "NORN RINA",
+      "phone": "086990011",
+      "telegram": "086990011",
+      "facebook": "https://facebook.com/exampleA016",
+      "email": "norina@gmail.com"
+    },
+    "extraimg": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/637434537.jpg?k=d29896d9cb7af71434d801a21733f8d0dfda8a06c97cef80917d1f34f825f0cf&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/428791138.jpg?k=aca6f557c013b90b274ff5a48f120fa91634f139c5e72ea441f65e4a48155f81&o="
+    ]
+  },
+  {
+    "id": 34,
+    "ID": "A017",
+    "type": "Apartment",
+    "mainimg": "https://thumbs.dreamstime.com/b/exterior-new-aprtment-building-under-blue-sky-sunny-autumn-day-modern-low-rise-apartment-clear-piermont-ny-usa-379765145.jpg",
+    "title": "2 Bedroom Balcony Apartment",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 1
+    },
+    "area": {
+      "a": 7,
+      "b": 14
+    },
+    "price": {
+      "ppm": 1700,
+      "ppy": 20400
+    },
+    "location": {
+      "text": "Tonle Bassac, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.547920,104.928331"
+    },
+    "owner": {
+      "name": "TEP VICHHEKA",
+      "phone": "087776655",
+      "telegram": "087776655",
+      "facebook": "https://facebook.com/exampleA017",
+      "email": "vichheka@gmail.com"
+    },
+    "extraimg": [
+      "https://cdn.apartmentlist.com/image/upload/c_fill,dpr_auto,f_auto,g_center,h_415,q_auto,w_640/334c1b0f1552407dbc229798fb0122c3.jpg",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/637434529.jpg?k=1262797baafecda3c8e81e8bab4003e575a8d9976032f56fa512d38a252d01d0&o="
+    ]
+  },
+  {
+    "id": 35,
+    "ID": "A018",
+    "type": "Apartment",
+    "mainimg": "https://images1.apartments.com/i2/hqjL3qm9Bgq6CFkff0laC8C69ajnzefBM1wxchJFuRs/117/image.jpg",
+    "title": "3 Bedroom Premium Apartment",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 3,
+      "pool": 1
+    },
+    "area": {
+      "a": 10,
+      "b": 20
+    },
+    "price": {
+      "ppm": 3500,
+      "ppy": 42000
+    },
+    "location": {
+      "text": "Chroy Changva, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.608200,104.930200"
+    },
+    "owner": {
+      "name": "HENG RATHA",
+      "phone": "090221133",
+      "telegram": "090221133",
+      "facebook": "https://facebook.com/exampleA018",
+      "email": "hengratha@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/__sized__/listings/2024-06/edited-r-3851-1-thumbnail-750x562-70.jpeg",
+      "https://cdngeneral.rentcafe.com/dmslivecafe/2/10664/171%20One%20Bedroom%20Aprtment%20-%20Kitchen.jpg?width=1024&quality=90"
+    ]
+  },
+  {
+    "id": 36,
+    "ID": "A019",
+    "type": "Apartment",
+    "mainimg": "https://www.smartpropertyinvestment.com.au/images/intro-images/839x487/apartment-modern-spi.jpg",
+    "title": "1 Bedroom Newly Renovated Apartment",
+    "prop": {
+      "bedroom": 1,
+      "livingroom": 1,
+      "bathroom": 1,
+      "pool": 0
+    },
+    "area": {
+      "a": 5,
+      "b": 9
+    },
+    "price": {
+      "ppm": 800,
+      "ppy": 9600
+    },
+    "location": {
+      "text": "Daun Penh, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.569800,104.922500"
+    },
+    "owner": {
+      "name": "PHAT SOMALY",
+      "phone": "096110220",
+      "telegram": "096110220",
+      "facebook": "https://facebook.com/exampleA019",
+      "email": "somalyphat@gmail.com"
+    },
+    "extraimg": [
+      "https://housingsgn.com/wp-content/uploads/2025/09/PHN0401-5.jpg",
+      "https://camrealtyservice.com/wp-content/uploads/2020/11/2-Bedroom-Serviced-Apartment-For-Rent-in-BKK1-N4083168-1.jpg"
+    ]
   }
 ]
