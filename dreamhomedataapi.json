@@ -1395,5 +1395,394 @@
       "https://housingsgn.com/wp-content/uploads/2025/09/PHN0401-5.jpg",
       "https://camrealtyservice.com/wp-content/uploads/2020/11/2-Bedroom-Serviced-Apartment-For-Rent-in-BKK1-N4083168-1.jpg"
     ]
+  },
+  {
+    "id": 37,
+    "ID": "C008",
+    "type": "Condo",
+    "mainimg": "https://www.confident-group.com/wp-content/uploads/2024/12/shutterstock_301921082-1024x851.jpg",
+    "title": "Urban Loft Condo",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 1
+    },
+    "area": {
+      "a": 55,
+      "b": 90
+    },
+    "price": {
+      "ppm": 650,
+      "ppy": 7000
+    },
+    "location": {
+      "text": "Tonle Bassac, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5432,104.9291"
+    },
+    "owner": {
+      "name": "SOK CHANNA",
+      "phone": "087889922",
+      "telegram": "087889922",
+      "facebook": "https://facebook.com/channa",
+      "email": "channacondo@gmail.com"
+    },
+    "extraimg": [
+      "https://luxrealty.asia/wp-content/uploads/elementor/thumbs/photo_2023-09-03_16-56-42-qbv2bvfvomdzvvy65oyi408f7iottuq80tp4rodfak.jpg",
+      "https://luxrealty.asia/wp-content/uploads/elementor/thumbs/photo_2023-09-03_16-56-46-qbv2cktit5cqlcxb1hxfhbtv8x7qloiz4bb8q5bsmk.jpg",
+      "https://luxrealty.asia/wp-content/uploads/elementor/thumbs/photo_2023-09-03_16-56-49-qbv2cxz9gtur3we6wnm7g8ibkbevlfz7u4g1g0sa7g.jpg",
+      "https://luxrealty.asia/wp-content/uploads/elementor/thumbs/photo_2023-09-03_16-56-38-qbv2bm1hsa14nsbtokw8f2lt9nz5ovownj69ywrd0s.jpg"
+    ]
+  },
+
+  {
+    "id": 38,
+    "ID": "C009",
+    "type": "Condo",
+    "mainimg": "https://smartasset.com/wp-content/uploads/sites/2/2017/06/condo-1.jpg",
+    "title": "Skyline Residence",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 3,
+      "pool": 1
+    },
+    "area": {
+      "a": 85,
+      "b": 120
+    },
+    "price": {
+      "ppm": 900,
+      "ppy": 9600
+    },
+    "location": {
+      "text": "BKK1, Chamkarmon, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5531,104.9288"
+    },
+    "owner": {
+      "name": "LONG DEVIN",
+      "phone": "089667744",
+      "telegram": "089667744",
+      "facebook": "https://facebook.com/devin",
+      "email": "devincondo@gmail.com"
+    },
+    "extraimg": [
+      "https://luxrealty.asia/wp-content/uploads/elementor/thumbs/6330319067868674137-r1toj7w6u8lezqcvyfsatf4nnttzh1909rbfhy4wbw.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/02/6330319067868674134.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/02/6330319067868674132.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/02/6330319067868674122.jpg"
+    ]
+  },
+
+  {
+    "id": 39,
+    "ID": "C010",
+    "type": "Condo",
+    "mainimg": "https://assets-listings.rew.ca/listing/brc_idx_rew/263087746/00_1176edc9fecd6e257b251fee2c37056e.jpeg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25",
+    "title": "Avenue Luxury Condo",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 1
+    },
+    "area": {
+      "a": 60,
+      "b": 100
+    },
+    "price": {
+      "ppm": 750,
+      "ppy": 8200
+    },
+    "location": {
+      "text": "Toul Tompoung, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5448,104.9123"
+    },
+    "owner": {
+      "name": "NEANG SONA",
+      "phone": "098332211",
+      "telegram": "098332211",
+      "facebook": "https://facebook.com/sona",
+      "email": "sonacondo@gmail.com"
+    },
+    "extraimg": [
+      "https://luxrealty.asia/wp-content/uploads/2025/11/10-B-C-21-of-27-1.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/11/11-A-13-of-20.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/11/10-B-C-25-of-27-1.jpg",
+      "https://luxrealty.asia/wp-content/uploads/2025/11/10-B-C-26-of-27-1.jpg"
+    ]
+  },
+
+  {
+    "id": 40,
+    "ID": "C011",
+    "type": "Condo",
+    "mainimg": "https://media.pixilinkserver.com/R/306/64/87/R3066487-1.jpg",
+    "title": "Four Seasons Residence",
+    "prop": {
+      "bedroom": 4,
+      "livingroom": 1,
+      "bathroom": 5,
+      "pool": 1
+    },
+    "area": {
+      "a": 140,
+      "b": 230
+    },
+    "price": {
+      "ppm": 1500,
+      "ppy": 16000
+    },
+    "location": {
+      "text": "Diamond Island, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5568,104.9362"
+    },
+    "owner": {
+      "name": "SAMNANG KHEANG",
+      "phone": "099445566",
+      "telegram": "099445566",
+      "facebook": "https://facebook.com/samnang",
+      "email": "samnang.luxury@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/__sized__/listings/2024-03/reakh2902-edited-4-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2024-03/reakh2902-edited-5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2024-03/reakh2902-edited-1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2024-03/reakh2902-edited-3-thumbnail-400x300-70.jpeg"
+    ]
+  },
+
+  {
+    "id": 41,
+    "ID": "C012",
+    "type": "Condo",
+    "mainimg": "https://photos.zolo.ca/310-530-de-mazenod-avenue-ottawa-X12344021-1-p480.jpg?2025-08-14+11%3A01%3A07g",
+    "title": "Galaxy Tower Condo",
+    "prop": {
+      "bedroom": 1,
+      "livingroom": 1,
+      "bathroom": 1,
+      "pool": 1
+    },
+    "area": {
+      "a": 40,
+      "b": 70
+    },
+    "price": {
+      "ppm": 480,
+      "ppy": 5200
+    },
+    "location": {
+      "text": "Sen Sok, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5882,104.8861"
+    },
+    "owner": {
+      "name": "PECH RAVY",
+      "phone": "088002244",
+      "telegram": "088002244",
+      "facebook": "https://facebook.com/ravy",
+      "email": "ravygalaxy@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_3_2025-11-21_10-32-04-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_10_2025-11-21_10-32-04-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_1_2025-11-21_10-32-04-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_6_2025-11-21_10-32-04-thumbnail-400x300-70.jpeg"
+    ]
+  },
+
+  {
+    "id": 42,
+    "ID": "C013",
+    "type": "Condo",
+    "mainimg": "https://photos.zolo.ca/102-530-de-mazenod-avenue-ottawa-1412770-1.jpg?2024-11-24+15%3A35%3A59",
+    "title": "Sky Park Condo",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 3,
+      "pool": 1
+    },
+    "area": {
+      "a": 90,
+      "b": 150
+    },
+    "price": {
+      "ppm": 1100,
+      "ppy": 11800
+    },
+    "location": {
+      "text": "Olympic, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5511,104.9089"
+    },
+    "owner": {
+      "name": "SREYLEAK MEAS",
+      "phone": "081777833",
+      "telegram": "081777833",
+      "facebook": "https://facebook.com/sreyleak",
+      "email": "skyparklease@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_3_2025-11-21_10-24-49-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_2_2025-11-21_10-24-49-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/photo_4_2025-11-21_10-24-49-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/photo_7_2025-11-21_10-24-49.jpeg"
+    ]
+  },
+
+  {
+    "id": 43,
+    "ID": "C014",
+    "type": "Condo",
+    "mainimg": "https://images.squarespace-cdn.com/content/v1/534c8a1fe4b0259491342174/1641487823601-UR5A0HC1BIY1RF7F7GQD/DSC04467.jpg",
+    "title": "Riverfront Condo",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 1
+    },
+    "area": {
+      "a": 65,
+      "b": 95
+    },
+    "price": {
+      "ppm": 780,
+      "ppy": 8200
+    },
+    "location": {
+      "text": "Riverside, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5766,104.9301"
+    },
+    "owner": {
+      "name": "KIMHENG CHORN",
+      "phone": "099881122",
+      "telegram": "099881122",
+      "facebook": "https://facebook.com/kimheng",
+      "email": "rivercondo@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/listings/2025-11/photo_2025-11-21_10-07-27.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/photo_2025-11-21_10-07-31.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/photo_2025-11-21_10-07-57.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/photo_2025-11-21_10-08-25.jpeg"
+    ]
+  },
+
+  {
+    "id": 44,
+    "ID": "C015",
+    "type": "Condo",
+    "mainimg": "https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/SOHL0122014_780x440_mobile.jpeg",
+    "title": "Metro City Condo",
+    "prop": {
+      "bedroom": 3,
+      "livingroom": 1,
+      "bathroom": 3,
+      "pool": 1
+    },
+    "area": {
+      "a": 95,
+      "b": 160
+    },
+    "price": {
+      "ppm": 1150,
+      "ppy": 12200
+    },
+    "location": {
+      "text": "Chroy Changvar, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5911,104.9000"
+    },
+    "owner": {
+      "name": "RAKSMEY LUN",
+      "phone": "087730900",
+      "telegram": "087730900",
+      "facebook": "https://facebook.com/raksmey",
+      "email": "metrocityleasing@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/listings/2025-11/img_8476.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/img_8479.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/img_8526.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/img_8471.jpeg"
+    ]
+  },
+
+  {
+    "id": 45,
+    "ID": "C016",
+    "type": "Condo",
+    "mainimg": "https://photos.zillowstatic.com/fp/6444096bf2b04b2c45fcbc7ba21319a0-cc_ft_960.jpg",
+    "title": "Sunrise Premium Condo",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 0
+    },
+    "area": {
+      "a": 58,
+      "b": 85
+    },
+    "price": {
+      "ppm": 620,
+      "ppy": 6800
+    },
+    "location": {
+      "text": "Tuol Kork, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5699,104.9002"
+    },
+    "owner": {
+      "name": "PHALLA CHEA",
+      "phone": "096322155",
+      "telegram": "096322155",
+      "facebook": "https://facebook.com/phallachea",
+      "email": "sunrisecondo@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/listings/2025-11/6122830460523055926.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/6122830460523055925.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/6122830460523055924.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/6122830460523055929.jpeg"
+    ]
+  },
+
+  {
+    "id": 46,
+    "ID": "C017",
+    "type": "Condo",
+    "mainimg": "https://photos.zolo.ca/301-570-de-mazenod-avenue-ottawa-X12464064-1-p480.jpg?2025-10-15+15%3A29%3A09",
+    "title": "Palm Residence Condo",
+    "prop": {
+      "bedroom": 4,
+      "livingroom": 1,
+      "bathroom": 4,
+      "pool": 1
+    },
+    "area": {
+      "a": 120,
+      "b": 200
+    },
+    "price": {
+      "ppm": 1400,
+      "ppy": 15000
+    },
+    "location": {
+      "text": "Boeung Keng Kang 3, Phnom Penh",
+      "link": "https://maps.apple.com/?ll=11.5482,104.9250"
+    },
+    "owner": {
+      "name": "LYNA THORN",
+      "phone": "081667700",
+      "telegram": "081667700",
+      "facebook": "https://facebook.com/lyna",
+      "email": "palmresidenceleasing@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/__sized__/listings/2025-11/6118301658027592725-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/6118301658027592723.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/05_BpN1hIM.jpeg",
+      "https://images.realestate.com.kh/listings/2025-11/6118301658027592724.jpeg"
+    ]
   }
 ]
