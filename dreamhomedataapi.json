@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "ID": "V007",
     "type": "Villa",
     "mainimg": "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337192560531-b.jpg",
     "title": "7-Bedrooms Quence Villa",
@@ -40,6 +41,138 @@
 
       "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337220693795-i.jpg",
       "https://images.khmer24.co/25-07-10/7-bedrooms-queen-villa-for-rent-in-borey-peng-huoth-beoung-snor-1119699175214337163956725-h.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "ID": "H007",
+    "type": "Hotel",
+    "mainimg": "https://photos.ips-commercial.com/cloud/photos/photos/2201171437516cf3-10-room-hotel-siem-reap-8572-01.jpg",
+    "title": "10 Room Boutique Hotel",
+    "prop": {
+      "bedroom": 10,
+      "livingroom": 1,
+      "bathroom": 12,
+      "pool": 1
+    },
+    "area": {
+      "a": 40,
+      "b": 80
+    },
+    "price": {
+      "ppm": 1500,
+      "ppy": 16000
+    },
+    "location": {
+      "text": " Sala Kamreuk, Siem Reap Province, Krong Siem Reab, Sala Kamreuk",
+      "link": "https://maps.apple.com/maps?ll=11.58939816665552,104.90128362378594&q=11.58939816665552,104.90128362378594&t=m"
+    },
+    "owner": {
+      "name": "SORNG VICHET",
+      "phone": "081981012",
+      "telegram": "081981012",
+      "facebook": "https://www.facebook.com/share/1BdbnpiSaC/?mibextid=wwXIfr",
+      "email": "sorngvichet168@gmail.com"
+    },
+    "extraimg": [
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171437444f9c-10-room-hotel-siem-reap-8572-01.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/220117160111bfc3-10-room-hotel-siem-reap-8572-02.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171601b15b8b-10-room-hotel-siem-reap-8572-03.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171601b91c83-10-room-hotel-siem-reap-8572-04.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171601e748ca-10-room-hotel-siem-reap-8572-05.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/22011716011542f6-10-room-hotel-siem-reap-8572-09.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/22011716011542f6-10-room-hotel-siem-reap-8572-09.thumb.jpg",
+
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171601aca27f-10-room-hotel-siem-reap-8572-10.thumb.jpg",
+      "https://photos.ips-commercial.com/cloud/photos/photos/2201171601145aac-10-room-hotel-siem-reap-8572-11.thumb.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "ID": "C007",
+    "type": "Condo",
+    "mainimg": "https://images.realestate.com.kh/__sized__/listings/2022-08/pen08-thumbnail-750x562-70.jpeg",
+    "title": "The Peninsula Private Residences",
+    "prop": {
+      "bedroom": 6,
+      "livingroom": 1,
+      "bathroom": 7,
+      "pool": 0
+    },
+    "area": {
+      "a": 100,
+      "b": 200
+    },
+    "price": {
+      "ppm": 850,
+      "ppy": 9000
+    },
+    "location": {
+      "text": "Chroy Changvar, Chroy Changvar, Phnom Penh",
+      "link": "https://maps.apple.com/maps?ll=11.58939816665552,104.90128362378594&q=11.58939816665552,104.90128362378594&t=m"
+    },
+    "owner": {
+      "name": "SORNG VICHET",
+      "phone": "081981012",
+      "telegram": "081981012",
+      "facebook": "https://www.facebook.com/share/1BdbnpiSaC/?mibextid=wwXIfr",
+      "email": "sorngvichet168@gmail.com"
+    },
+    "extraimg": [
+      "https://images.realestate.com.kh/listings/2022-08/pen1300.jpeg",
+      "https://images.realestate.com.kh/listings/2021-07/dsc_7121_ox5no0z_dyx6f1k_1qepf2i_qrgenxf_qivgd6d_msxdtqa_owzbmtb_1hokxi1_4ltxftk_ucemx6n_0dhgoyl_8espxoz_n0npy8a_i0kkmyw_4yn3di6_q0k3n4s_0ldtlpq_le5890x_uimmhso.jpeg",
+      "https://images.realestate.com.kh/listings/2022-08/pen010.jpeg",
+      "https://images.realestate.com.kh/listings/2022-08/pen09.jpeg",
+      "https://images.realestate.com.kh/listings/2022-08/peninsula7.jpeg",
+      "https://images.realestate.com.kh/listings/2022-01/peninsula2.jpeg",
+      "https://images.realestate.com.kh/listings/2022-08/peninsula02.jpeg",
+
+      "https://images.realestate.com.kh/listings/2022-08/peninsula34.jpeg",
+      "https://images.realestate.com.kh/listings/2023-11/photo_2023-03-10_13-26-16-12.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "ID": "A007",
+    "type": "Apartment",
+    "mainimg": "https://img.youtube.com/vi/AaR1HzLk6ek/0.jpg",
+    "title": "2 Bedroom Serviced Apartment",
+    "prop": {
+      "bedroom": 2,
+      "livingroom": 1,
+      "bathroom": 2,
+      "pool": 0
+    },
+    "area": {
+      "a": 8,
+      "b": 16
+    },
+    "price": {
+      "ppm": 2500,
+      "ppy": 30000
+    },
+    "location": {
+      "text": "Beoung Raing, Daun Penh, Phnom Penh",
+      "link": "https://maps.apple.com/maps?ll=11.58939816665552,104.90128362378594&q=11.58939816665552,104.90128362378594&t=m"
+    },
+    "owner": {
+      "name": "SORNG VICHET",
+      "phone": "081981012",
+      "telegram": "081981012",
+      "facebook": "https://www.facebook.com/share/1BdbnpiSaC/?mibextid=wwXIfr",
+      "email": "sorngvichet168@gmail.com"
+    },
+    "extraimg": [
+      "https://photos.ips-cambodia.com/photos/property/19044/240903034475b05b-2bed-apartment-grace-13-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/240903034454dcf5-2bed-apartment-grace-18-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/2409030344facbe3-2bed-apartment-grace-15-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/240903034403162d-2bed-apartment-grace-14-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/24090303447c9a16-2bed-apartment-grace-16-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/2409030344329b5f-2bed-apartment-grace-17-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/2409030344329b5f-2bed-apartment-grace-17-360x250.thumb.jpg",
+
+      "https://photos.ips-cambodia.com/photos/property/19044/2409030345956e8b-2bed-apartment-grace-23-360x250.thumb.jpg",
+      "https://photos.ips-cambodia.com/photos/property/19044/2409030344356abc-2bed-apartment-grace-19-360x250.thumb.jpg"
     ]
   }
 ]
