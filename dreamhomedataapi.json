@@ -562,5 +562,395 @@
       "https://img.harbor-property.com/house/2024/10/04/154500004.jpg_1600",
       "https://img.harbor-property.com/house/2024/10/04/154600001.jpg_1600"
     ]
+  },
+  {
+    "id": 15,
+    "ID": "H001",
+    "type": "Hotel",
+    "mainimg": "https://pix10.agoda.net/hotelImages/124/1246280/1246280_16061017110043391702.jpg?ca=6&ce=1&s=414x232",
+    "title": "15 Room Riverside Hotel",
+    "prop": {
+      "bedroom": 15,
+      "livingroom": 1,
+      "bathroom": 18,
+      "pool": 1
+    },
+    "area": {
+      "a": 55,
+      "b": 120
+    },
+    "price": {
+      "ppm": 2500,
+      "ppy": 27000
+    },
+    "location": {
+      "text": "Riverside, Krong Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3572,103.8599"
+    },
+    "owner": {
+      "name": "HENG PISETH",
+      "phone": "0977778899",
+      "telegram": "0977778899",
+      "facebook": "https://facebook.com/hotpipiseth",
+      "email": "pisethhotels@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2023/05/03/112800011.JPG_1600",
+      "https://img.harbor-property.com/house/2023/05/03/112800004.JPG_1600",
+      "https://img.harbor-property.com/house/2023/05/03/112800015.JPG_1600",
+      "https://img.harbor-property.com/house/2023/05/03/112800002.JPG_1600"
+    ]
+  },
+
+  {
+    "id": 16,
+    "ID": "H002",
+    "type": "Hotel",
+    "mainimg": "https://m.ahstatic.com/is/image/accorhotels/HCM_P_8147067:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80",
+    "title": "20 Room Boutique Resort",
+    "prop": {
+      "bedroom": 20,
+      "livingroom": 2,
+      "bathroom": 22,
+      "pool": 1
+    },
+    "area": {
+      "a": 70,
+      "b": 140
+    },
+    "price": {
+      "ppm": 3200,
+      "ppy": 36000
+    },
+    "location": {
+      "text": "Svay Dangkum, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3678,103.8605"
+    },
+    "owner": {
+      "name": "SORN KIMHOUT",
+      "phone": "0882233445",
+      "telegram": "0882233445",
+      "facebook": "https://facebook.com/kimhout",
+      "email": "kimhoutrental@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2023/02/13/12300009.jpg_1600",
+      "https://img.harbor-property.com/house/2023/02/13/133300007.jpg_1600",
+      "https://img.harbor-property.com/house/2023/02/13/133300004.jpg_1600",
+      "https://img.harbor-property.com/house/2023/02/13/133500001.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 17,
+    "ID": "H003",
+    "type": "Hotel",
+    "mainimg": "https://cdn.tajhotels.com/images/ocl5w36p/prod5/c4a779553f1d28328588c638974ad70a60cddc66-1281x1760.jpg?w=480",
+    "title": "12 Room Mini Hotel",
+    "prop": {
+      "bedroom": 12,
+      "livingroom": 1,
+      "bathroom": 14,
+      "pool": 0
+    },
+    "area": {
+      "a": 35,
+      "b": 75
+    },
+    "price": {
+      "ppm": 1800,
+      "ppy": 20000
+    },
+    "location": {
+      "text": "Wat Bo Village, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3559,103.8611"
+    },
+    "owner": {
+      "name": "NHEK CHANRA",
+      "phone": "093889977",
+      "telegram": "093889977",
+      "facebook": "https://facebook.com/chanra",
+      "email": "chanrahotels@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/04/10/092400002.jpg_1600",
+      "https://img.harbor-property.com/house/2022/05/11/135700004.jpg_1600",
+      "https://img.harbor-property.com/house/2024/04/10/092100002.jpg_1600",
+      "https://img.harbor-property.com/house/2023/10/02/104800002.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 18,
+    "ID": "H004",
+    "type": "Hotel",
+    "mainimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/2a/28/4f/fortune-select-grand.jpg?w=900&h=500&s=1",
+    "title": "25 Room City Center Hotel",
+    "prop": {
+      "bedroom": 25,
+      "livingroom": 2,
+      "bathroom": 28,
+      "pool": 1
+    },
+    "area": {
+      "a": 85,
+      "b": 160
+    },
+    "price": {
+      "ppm": 4500,
+      "ppy": 50000
+    },
+    "location": {
+      "text": "Old Market Area, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3550,103.8573"
+    },
+    "owner": {
+      "name": "CHAN DINA",
+      "phone": "087556677",
+      "telegram": "087556677",
+      "facebook": "https://facebook.com/dina",
+
+      "email": "dinahotels@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/08/15/131400002.jpg_1600",
+      "https://img.harbor-property.com/house/2024/08/15/131400001.jpg_1600",
+      "https://img.harbor-property.com/house/2024/08/15/091800007.jpg_1600",
+      "https://img.harbor-property.com/house/2024/08/15/091800004.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 19,
+    "ID": "H005",
+    "type": "Hotel",
+    "mainimg": "https://digital.ihg.com/is/image/ihg/intercontinental-tegucigalpa-6071105521-2x1",
+    "title": "18 Room Pool Hotel",
+    "prop": {
+      "bedroom": 18,
+      "livingroom": 1,
+      "bathroom": 20,
+      "pool": 1
+    },
+    "area": {
+      "a": 50,
+      "b": 100
+    },
+    "price": {
+      "ppm": 2800,
+      "ppy": 30000
+    },
+    "location": {
+      "text": "Sala Kamreuk, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3412,103.8691"
+    },
+    "owner": {
+      "name": "POV SOKLAY",
+      "phone": "089224466",
+      "telegram": "089224466",
+      "facebook": "https://facebook.com/soklay",
+      "email": "soklayhotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/23/214500004.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214500006.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214500003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/214400003.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 20,
+    "ID": "H006",
+    "type": "Hotel",
+    "mainimg": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,w_1000/f_auto/crm/miamifl/Colony-GMCBV_283DBD1C-497F-40E1-BFC4019833A6DF29_5335ec78-cde2-49ce-bf026a6a541e9137.jpg",
+    "title": "22 Room Premium Hotel",
+    "prop": {
+      "bedroom": 22,
+      "livingroom": 2,
+      "bathroom": 24,
+      "pool": 1
+    },
+    "area": {
+      "a": 65,
+      "b": 130
+    },
+    "price": {
+      "ppm": 3500,
+      "ppy": 38000
+    },
+    "location": {
+      "text": "Chong Kao Sue, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3747,103.8482"
+    },
+    "owner": {
+      "name": "CHEA RATANA",
+      "phone": "096882233",
+      "telegram": "096882233",
+      "facebook": "https://facebook.com/ratana",
+      "email": "ratanahotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2025/11/23/211300003.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300007.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300009.jpg_1600",
+      "https://img.harbor-property.com/house/2025/11/23/211300012.jpg_1600"
+    ]
+  },
+
+  {
+    "id": 21,
+    "ID": "H007",
+    "type": "Hotel",
+    "mainimg": "https://www.ghmhotels.com/wp-content/uploads/CAM-Dining-The-Courtyard-Night021-865x780.jpg",
+    "title": "14 Room Cozy Hotel",
+    "prop": {
+      "bedroom": 14,
+      "livingroom": 1,
+      "bathroom": 16,
+      "pool": 0
+    },
+    "area": {
+      "a": 40,
+      "b": 90
+    },
+    "price": {
+      "ppm": 1600,
+      "ppy": 17500
+    },
+    "location": {
+      "text": "Krong Siem Reap Center",
+      "link": "https://maps.apple.com/?ll=13.3566,103.8598"
+    },
+    "owner": {
+      "name": "VUTH SAKDA",
+      "phone": "088112233",
+      "telegram": "088112233",
+      "facebook": "https://facebook.com/sakda",
+      "email": "sakdahotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/07/12/151200001.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200002.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200004.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/151200005.jpg_780x488"
+    ]
+  },
+
+  {
+    "id": 22,
+    "ID": "H008",
+    "type": "Hotel",
+    "mainimg": "https://www.dangleterre.com/uploads/media/1200x630/00/370-_DSF2441_SAM_WS2_aRGB_High-1600px.jpg?v=1-0",
+    "title": "30 Room Modern Hotel",
+    "prop": {
+      "bedroom": 30,
+      "livingroom": 3,
+      "bathroom": 32,
+      "pool": 1
+    },
+    "area": {
+      "a": 100,
+      "b": 200
+    },
+    "price": {
+      "ppm": 6000,
+      "ppy": 65000
+    },
+    "location": {
+      "text": "National Road 6, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3728,103.8672"
+    },
+    "owner": {
+      "name": "PROM BOREY",
+      "phone": "099556688",
+      "telegram": "099556688",
+      "facebook": "https://facebook.com/borey",
+      "email": "boreyhotel@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/07/13/141300007.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/141300004.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/141300006.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/141300001.jpg_780x488"
+    ]
+  },
+
+  {
+    "id": 23,
+    "ID": "H009",
+    "type": "Hotel",
+    "mainimg": "https://images.trvl-media.com/lodging/84000000/83530000/83526600/83526593/80723385.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "title": "16 Room Angkor Style Hotel",
+    "prop": {
+      "bedroom": 16,
+      "livingroom": 1,
+      "bathroom": 18,
+      "pool": 1
+    },
+    "area": {
+      "a": 60,
+      "b": 110
+    },
+    "price": {
+      "ppm": 2300,
+      "ppy": 25000
+    },
+    "location": {
+      "text": "Taphul Village, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3600,103.8539"
+    },
+    "owner": {
+      "name": "HOK SINA",
+      "phone": "071445566",
+      "telegram": "071445566",
+      "facebook": "https://facebook.com/sinahotels",
+      "email": "sinahotels@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/07/13/142900006.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/142900005.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/142900004.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/13/142900001.jpg_780x488"
+    ]
+  },
+
+  {
+    "id": 24,
+    "ID": "H010",
+    "type": "Hotel",
+    "mainimg": "https://sokhahotels.com.kh/palace-siemreap/img/bg-slide/hotel-building-4.jpg",
+    "title": "28 Room Luxury Resort Hotel",
+    "prop": {
+      "bedroom": 28,
+      "livingroom": 3,
+      "bathroom": 30,
+      "pool": 1
+    },
+    "area": {
+      "a": 120,
+      "b": 230
+    },
+    "price": {
+      "ppm": 7200,
+      "ppy": 78000
+    },
+    "location": {
+      "text": "South Wat Bo, Siem Reap",
+      "link": "https://maps.apple.com/?ll=13.3522,103.8655"
+    },
+    "owner": {
+      "name": "OUK DAVIN",
+      "phone": "098556677",
+      "telegram": "098556677",
+      "facebook": "https://facebook.com/davinhotel",
+      "email": "davinresort@gmail.com"
+    },
+    "extraimg": [
+      "https://img.harbor-property.com/house/2024/07/12/132400003.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/132400008.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/132400001.jpg_780x488",
+      "https://img.harbor-property.com/house/2024/07/12/132400005.jpg_780x488"
+    ]
   }
 ]
